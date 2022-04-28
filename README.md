@@ -32,7 +32,9 @@ ildaserj/ildaserj is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ildaserj&repo=MonitoraggioOliveto&theme=cobalt&hide_border=true)](https://github.com/ildaserj/MonitoraggioOliveto) 
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ildaserj&repo=WeatherAPI_call&theme=cobalt&hide_border=true)](https://github.com/ildaserj/WeatherAPI_call)
 
 
 
