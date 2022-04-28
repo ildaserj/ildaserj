@@ -1,10 +1,19 @@
 - ## Hi, I’m @ildaserj👋 
 
-[![Ilda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ildaserj&hide_border=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+<p align="center">
+  <a href="https://github.com/ildaserj">
+    <img src="https://github-readme-stats.vercel.app/api?username=ildaserj&hide_border=true&show_icons=True&theme=cobalt" alt="Ilda's Github Stats"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ildaserj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildaserj&layout=compact&hide_border=true&show_icons=True&theme=cobalt"/>
+</p>
+  
+    
 <!--Theme: cobalt  synthwave tokyonight -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ildaserj&theme=cobalt&layout=compact&hide_border=true&text_color=0CFE18&hide=php,scss,html,css,cmake,Makefile,Jupyter%20Notebook,Shell)](https://github.com/anuraghazra/github-readme-stats)
 - ## I’m currently learning web development 🌱
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
